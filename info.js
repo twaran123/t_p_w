@@ -4,7 +4,7 @@
       "userId": 1,
       "name": "Twaran Sahai",
       "designation": "Web Developer (Full Stack Developer)",
-      "photo": "https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png",
+      "photo": "https://media.licdn.com/dms/image/D5603AQH_u9huXJa0WQ/profile-displayphoto-shrink_800_800/0/1683499385656?e=1689206400&v=beta&t=IFogSkUPmsoKWP7qYbSXbxBFvMoNHLZfz5ZTu9kctnE",
       "phoneNo": "6478653460",
       "latestJob": "Freelancer",
       "address": "Conestoga College",
