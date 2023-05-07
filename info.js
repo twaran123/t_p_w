@@ -185,7 +185,7 @@
       "Job_stat_four": "Collaborated with the client to gather and understand their requirements and provided suggestions and recommendations based on their needs.",
       "Job_stat_five": "Ensured website is optimized for search engines and had a fast-loading time.",
       "Job_designation": "Freelance ( Web Developer )",
-      "url": "https://pbs.twimg.com/profile_images/929088511382343682/regsaLAR_400x400.jpg"
+      "url": "https://www.osmoscloud.com/blog/wp-content/uploads/2020/03/freelance.jpg"
     },
     {
       "Job_id": 2,
